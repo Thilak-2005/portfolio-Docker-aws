@@ -27,7 +27,7 @@ Instead of using simple static hosting, I challenged myself to use **containeriz
 
 ### Clone this repository
 
-git clone https://github.com/Thilak_2005/portfolio-docker-aws.git
+git clone https://github.com/Thilak-2005/portfolio-docker-aws.git
 cd portfolio-docker-aws
 
 ### Build the Docker image
