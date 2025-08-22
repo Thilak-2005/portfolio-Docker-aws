@@ -25,19 +25,22 @@ Instead of using simple static hosting, I challenged myself to use **containeriz
 
 ## ⚙️ Steps to Deploy
 
-### Clone this repository
-
+### Clone this repository 
+```bash
 git clone https://github.com/Thilak-2005/portfolio-docker-aws.git
 cd portfolio-docker-aws
-
-### Build the Docker image
+```
+----
+### Build the Docker image  
+```bash
 docker build -t my-portfolio .
-
-
+```
+----
 ### Run the container
+```bash
 docker run -d -p 80:80 my-portfolio
-
+```
 
 ### Access the portfolio
-
+```bash
 Open your browser → http://<your-ec2-public-ip>
