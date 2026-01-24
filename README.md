@@ -5,6 +5,10 @@ Personal Portfolio Deployment on AWS with Docker & Nginx
 This repository contains the complete setup and deployment process of **my personal portfolio website**.  
 The site was fully containerized using **Docker**, served using **Nginx**, and deployed on an **AWS EC2 instance** for global access.
 
+### Architecture Diagram
+
+![Architecture Diagram](built-docker-container.png)
+
  # Project Overview
 As part of my cloud and DevOps learning journey, I built and deployed my personal portfolio to showcase my skills, projects, and achievements.  
 Instead of using simple static hosting, I challenged myself to use **containerization and cloud deployment** to gain real-world deployment experience.
