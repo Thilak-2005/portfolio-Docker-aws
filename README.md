@@ -7,7 +7,7 @@ The site was fully containerized using **Docker**, served using **Nginx**, and d
 
 ### Architecture Diagram
 
-![Architecture Diagram](built-docker-container.png)
+![Architecture Diagram](portfolio.jpg)
 
  # Project Overview
 As part of my cloud and DevOps learning journey, I built and deployed my personal portfolio to showcase my skills, projects, and achievements.  
