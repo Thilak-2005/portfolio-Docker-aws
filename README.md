@@ -22,7 +22,6 @@ Instead of using simple static hosting, I challenged myself to use **containeriz
 - Cloud Hosting: AWS EC2 (Ubuntu)  
 - Operating System: Linux  
 
-
 ## ⚙️ Steps to Deploy
 
 ### Clone this repository 
